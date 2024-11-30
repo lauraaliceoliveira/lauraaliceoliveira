@@ -4,4 +4,4 @@ I’m a front-end developer with over 3 years of experience creating modern web 
 
 I’m skilled in building responsive and accessible interfaces, optimizing performance, and integrating APIs to deliver fast and user-friendly applications. I also have experience with state management, design systems, and UI/UX principles, ensuring every project is functional and visually appealing.
 
-Let’s build something great together!
+Let’s build something great together! 😁
